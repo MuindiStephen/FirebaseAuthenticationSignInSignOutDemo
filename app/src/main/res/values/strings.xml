@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseAuthenticationDemo</string>
+    <string name="welcome">WELCOME!!</string>
+    <string name="sign_out">SIGN OUT</string>
+</resources>
